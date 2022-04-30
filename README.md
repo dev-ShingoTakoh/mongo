@@ -8,10 +8,11 @@ Dockerを使用してMongoDB、Mongo-Expressの環境を構築する。
 
 ## 目次
 [事前準備](#anchor1)  
-[環境](#anchor2)  
-[実行コマンド](#anchor3)  
+[環境の詳細](#anchor2)  
+[環境の構築](#anchor3)  
 [環境の削除](#anchor4)  
 [参考リンク](#anchor5)  
+[etc](#anchor6)  
 
 <a id="anchor1"></a>
 
@@ -26,11 +27,11 @@ Dockerを使用してMongoDB、Mongo-Expressの環境を構築する。
 
 <a id="anchor2"></a>
 
-## 環境
+## 環境の詳細
 
 <a id="anchor3"></a>
 
-## 実行コマンド
+## 環境の構築
 
 - コンテナ起動
 
@@ -84,3 +85,8 @@ make down-rmi
 <a id="anchor5"></a>
 
 ## 参考リンク
+
+
+<a id="anchor6"></a>
+
+## etc
