@@ -84,5 +84,3 @@ make down-rmi
 <a id="anchor5"></a>
 
 ## 参考リンク
-
-[github-markdown-css CDN](https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css)
